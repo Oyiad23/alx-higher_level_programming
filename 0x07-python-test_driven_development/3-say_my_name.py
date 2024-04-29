@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+"""
+
+This module comprises a function prints full name
+
+"""
 
 
 def say_my_name(first_name, last_name=""):
